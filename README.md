@@ -22,9 +22,13 @@
 [<img src="social-media/linkedin-icon.png"/>](https://www.linkedin.com/in/ian-mlolwa-b18195215/)
 [<img src="social-media/instagram-icon.png"/>](https://www.instagram.com/ianmlolwa/)
 [<img src="social-media/facebook-icon.png"/>](https://www.facebook.com/ian.mwamburi)
-
 <br />
 
 ### Languages and Tools:
 
-<img src="tools/html-icon.png" /><img src="tools/css-icon.png"/><img src="tools/js-icon.png"/><img src="tools/php-icon.png"/><img src="tools/react-icon.png"/><img src="tools/typescript-icon.png"/><img src="tools/tailwindcss-icon.png"/>
+<img src="languages & tools/html-icon.png" /><img src="languages & tools/css-icon.png"/><img src="languages & tools/js-icon.png"/><img src="languages & tools/php-icon.png"/><img src="languages & tools/react-icon.png"/><img src="languages & tools/typescript-icon.png"/><img src="languages & tools/tailwindcss-icon.png"/>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
