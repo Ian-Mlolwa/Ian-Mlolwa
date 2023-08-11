@@ -27,10 +27,4 @@
 
 ### Languages and Tools:
 
-[<img src="tools/html-icon.png" />
-<img src="tools/css-icon.png"/>
-<img src="tools/js-icon.png"/>
-<img src="tools/php-icon.png"/>
-<img src="tools/react-icon.png"/>
-<img src="tools/typescript-icon.png"/>
-<img src="tools/tailwindcss-icon.png"/>]
+<img src="tools/html-icon.png" /><img src="tools/css-icon.png"/><img src="tools/js-icon.png"/><img src="tools/php-icon.png"/><img src="tools/react-icon.png"/><img src="tools/typescript-icon.png"/><img src="tools/tailwindcss-icon.png"/>
