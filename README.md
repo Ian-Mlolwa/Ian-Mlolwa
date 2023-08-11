@@ -46,3 +46,7 @@
 
 <!-- NETLIFY:START -->
 <!-- NETLIFY:END -->
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-mlolwa&layout=donut)](https://github.com/ian-mlolwa/github-readme-stats)
