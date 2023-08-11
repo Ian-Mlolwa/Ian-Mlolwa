@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img src="images/globe-icon.png" />][website]
+[<img src="images/globe-icon.png" href="my-portfolio-ian.netlify.app"/>]
 [<img src="images/twitter-icon.png"/>][twitter]
 [<img src="images/linkedin-icon.png"/>][linkedin]
 [<img src="images/instagram-icon.png"/>][instagram]
