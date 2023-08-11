@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img src="images/globe-icon.png" />](https://my-portfolio-ian.netlify.app)
-[<img src="images/twitter-icon.png"/>][twitter]
+[<img src="images/twitter-icon.png"/>](https://twitter.com/ianmlolwa)
 [<img src="images/linkedin-icon.png"/>](https://www.linkedin.com/in/ian-mlolwa-b18195215/)
 [<img src="images/instagram-icon.png"/>](https://www.instagram.com/ianmlolwa/)
 [<img src="images/facebook-icon.png"/>](https://www.facebook.com/ian.mwamburi)
