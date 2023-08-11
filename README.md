@@ -1,8 +1,8 @@
-### Hi there, I'm Ian Mlolwa [ianmlosh](https://my-portfolio-ian.netlify.app) 👋
+# Hi there, I'm Ian Mlolwa [ianmlosh](https://my-portfolio-ian.netlify.app) 👋
 
 ---
 
-### 💬 I am a Developer and a designer!
+## 💬 I am a Developer and a designer!
 
 - 🔭 I’m currently working on Front-End development works...
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 📫 Connect with me:
+## 📫 Connect with me:
 
 [<img src="social-media/globe-icon.png" />](https://my-portfolio-ian.netlify.app)
 [<img src="social-media/twitter-icon.png"/>](https://twitter.com/ianmlolwa)
@@ -30,7 +30,7 @@
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img src="languages & tools/html-icon.png" /><img src="languages & tools/css-icon.png"/><img src="languages & tools/js-icon.png"/><img src="languages & tools/php-icon.png"/><img src="languages & tools/react-icon.png"/><img src="languages & tools/typescript-icon.png"/><img src="languages & tools/tailwindcss-icon.png"/>
 
@@ -41,11 +41,11 @@
 
 ---
 
-### My Project Deploys
+## My Project Deploys
 
--->[Shopping Web](https://my-portfolio-ian.netlify.app)<br />
--->[Start-App Net](https://start-app-net.netlify.app)<br />
--->[Shopping Website](https://shop-web-ian.netlify.app)<br />
+-->[Shopping Web](https://my-portfolio-ian.netlify.app)<br /><br />
+-->[Start-App Net](https://start-app-net.netlify.app)<br /><br />
+-->[Shopping Website](https://shop-web-ian.netlify.app)<br /><br />
 
 ---
 
