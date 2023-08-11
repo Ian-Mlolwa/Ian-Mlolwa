@@ -28,6 +28,20 @@
 
 <img src="languages & tools/html-icon.png" /><img src="languages & tools/css-icon.png"/><img src="languages & tools/js-icon.png"/><img src="languages & tools/php-icon.png"/><img src="languages & tools/react-icon.png"/><img src="languages & tools/typescript-icon.png"/><img src="languages & tools/tailwindcss-icon.png"/>
 
+---
+
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ianmlolwa&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ianmlolwa&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ianmlolwa&show_icons=true" />
+</picture>
+
 # Latest Deploys
 
 <!-- NETLIFY:START -->
