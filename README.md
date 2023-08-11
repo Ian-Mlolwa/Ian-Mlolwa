@@ -28,11 +28,11 @@
 
 <img src="languages & tools/html-icon.png" /><img src="languages & tools/css-icon.png"/><img src="languages & tools/js-icon.png"/><img src="languages & tools/php-icon.png"/><img src="languages & tools/react-icon.png"/><img src="languages & tools/typescript-icon.png"/><img src="languages & tools/tailwindcss-icon.png"/>
 
-# Latest Deploys
+<!--# Latest Deploys-->
 
 <!-- NETLIFY:START -->
 <!-- NETLIFY:END -->
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-mlolwa&layout=donut)](https://github.com/ian-mlolwa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-mlolwa&layout=donut&theme=tokyonight)](https://github.com/ian-mlolwa/github-readme-stats)
