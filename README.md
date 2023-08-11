@@ -15,7 +15,7 @@
   -->
 - ⚡ Fun fact: I love to draw, music and gaming...
 
-![Top Langs]
+[Top Langs]
 
 ### Connect with me:
 
