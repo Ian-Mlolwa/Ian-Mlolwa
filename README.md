@@ -15,9 +15,9 @@
   -->
 - ⚡ Fun fact: I love to draw, music and gaming...
 
-### ![Top Langs]Connect with me:
+### Connect with me:
 
-[<img src="social-media/globe-icon.png" />](https://my-portfolio-ian.netlify.app)
+[![Top Langs]<img src="social-media/globe-icon.png" />](https://my-portfolio-ian.netlify.app)
 [<img src="social-media/twitter-icon.png"/>](https://twitter.com/ianmlolwa)
 [<img src="social-media/linkedin-icon.png"/>](https://www.linkedin.com/in/ian-mlolwa-b18195215/)
 [<img src="social-media/instagram-icon.png"/>](https://www.instagram.com/ianmlolwa/)
