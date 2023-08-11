@@ -1,4 +1,4 @@
-### Hi there, I'm Ian Mlolwa [ianmlosh(my-portfolio-ian.netlify.app)] 👋
+### Hi there, I'm Ian Mlolwa [ianmlosh](my-portfolio-ian.netlify.app) 👋
 
 ### I am a Developer and a designer!
 
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img src="images/globe-icon.png" (my-portfolio-ian.netlify.app)/>]
+[<img src="images/globe-icon.png" />](my-portfolio-ian.netlify.app)
 [<img src="images/twitter-icon.png"/>][twitter]
 [<img src="images/linkedin-icon.png"/>][linkedin]
 [<img src="images/instagram-icon.png"/>][instagram]
