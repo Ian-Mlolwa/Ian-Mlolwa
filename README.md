@@ -41,6 +41,9 @@
 
 ---
 
-[-->Shopping Web(https://my-portfolio-ian.netlify.app)
--->Start-App Net(https://start-app-net.netlify.app)]
+-->[Shopping Web](https://my-portfolio-ian.netlify.app)
+-->[Start-App Net](https://start-app-net.netlify.app)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-mlolwa&layout=donut&theme=tokyonight)](https://github.com/ian-mlolwa/github-readme-stats)
