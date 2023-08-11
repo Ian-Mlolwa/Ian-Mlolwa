@@ -28,10 +28,6 @@
 
 <img src="languages & tools/html-icon.png" /><img src="languages & tools/css-icon.png"/><img src="languages & tools/js-icon.png"/><img src="languages & tools/php-icon.png"/><img src="languages & tools/react-icon.png"/><img src="languages & tools/typescript-icon.png"/><img src="languages & tools/tailwindcss-icon.png"/>
 
----
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ian-mlolwa&show_icons=true" />
-
 # Latest Deploys
 
 <!-- NETLIFY:START -->
