@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
         comment_tag_name: "PROJECTS"
-          feed_list: "https://app.netlify.com/teams/ian-mlolwa/sites"
+          feed_list: "https://app.netlify.com/feeds/teams/ian-mlolwa/sites"
