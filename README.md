@@ -19,7 +19,7 @@
 
 ---
 
-## 📫 Connect with me:
+### 📫 Connect with me:
 
 [<img src="social-media/globe-icon.png" />](https://my-portfolio-ian.netlify.app)
 [<img src="social-media/twitter-icon.png"/>](https://twitter.com/ianmlolwa)
@@ -30,7 +30,7 @@
 
 ---
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img src="languages & tools/html-icon.png" /><img src="languages & tools/css-icon.png"/><img src="languages & tools/js-icon.png"/><img src="languages & tools/php-icon.png"/><img src="languages & tools/react-icon.png"/><img src="languages & tools/typescript-icon.png"/><img src="languages & tools/tailwindcss-icon.png"/>
 
