@@ -63,4 +63,4 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?uid=duylmghlfivq2aqfa8nz5vo1xbackground_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/duylmghlfivq2aqfa8nz5vo1x)
 
-[![Spotify](https://ian-mlolwa.vercel.app/api/spotify)](https://open.spotify.com/user/duylmghlfivq2aqfa8nz5vo1x)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/duylmghlfivq2aqfa8nz5vo1x)
