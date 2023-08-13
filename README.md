@@ -57,8 +57,8 @@
 
 ## Spotify currently playing
 
-(https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
+[![Spotify]](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
 
 ---
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify?uid=duylmghlfivq2aqfa8nz5vo1xbackground_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
