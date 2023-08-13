@@ -53,6 +53,6 @@
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=02cccf&bar_color_cover=true)
