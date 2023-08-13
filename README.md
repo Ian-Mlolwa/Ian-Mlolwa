@@ -49,10 +49,12 @@
 
 ---
 
+## Git Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-mlolwa&layout=donut&theme=tokyonight)](https://github.com/ian-mlolwa/github-readme-stats)
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
+## Spotify currently playing
 
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false)
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
