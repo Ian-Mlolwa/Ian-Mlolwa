@@ -58,3 +58,7 @@
 ## Spotify currently playing
 
 [!(https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/)
+
+---
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31rcfxclkmuvg2jmk3m6i2s7fpba)
