@@ -62,3 +62,5 @@
 ---
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?uid=duylmghlfivq2aqfa8nz5vo1xbackground_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
+[![Spotify](https://ian-mlolwa.vercel.app/api/spotify)](https://open.spotify.com/user/ian-mlolwa)
