@@ -50,3 +50,9 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-mlolwa&layout=donut&theme=tokyonight)](https://github.com/ian-mlolwa/github-readme-stats)
+
+---
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-rho.vercel.app/api" alt="Current Spotify Song">
+</a>
