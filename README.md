@@ -57,4 +57,8 @@
 
 ## Spotify currently playing
 
-![https://open.spotify.com/user/31rcfxclkmuvg2jmk3m6i2s7fpba](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
+
+---
+
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=YOUR_USER_ID)
