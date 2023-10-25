@@ -2,7 +2,7 @@
 
 ---
 
-## 💬 I am a Developer and a designer!
+## 💬 I am a Developer and currently working to perfect my designer skills!
 
 - 🔭 I’m currently a Front-End development working on my backend skills...
 
@@ -58,5 +58,6 @@
 ## Spotify currently playing
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=duylmghlfivq2aqfa8nz5vo1x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)
+
 <!--
 [![Spotify](https://novatorem-b03id3m40-ian-mlolwa.vercel.app/api/spotify)](https://open.spotify.com/user/duylmghlfivq2aqfa8nz5vo1x)
