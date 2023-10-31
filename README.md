@@ -36,7 +36,7 @@
 
 ## Latest Deploys
 
--->-->[FigmaWebPrac](https://elegant-blancmange-ff9b8d.netlify.app/)<br />
+-->[FigmaWebPrac](https://elegant-blancmange-ff9b8d.netlify.app/)<br />
 
 <!-- NETLIFY:END -->
 
