@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a Front-End development working on my backend skills...
 
-- 🌱 I’m currently learning Figma skills to perfection
+- 🌱 I’m currently learning Figma skills to perfection and CLI
 
 - 👯 I’m looking to collaborate on with other content creators, developers and designers...
 <!--
